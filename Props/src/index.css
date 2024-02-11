@@ -1,0 +1,13 @@
+body {
+  background-color: lightcyan;
+}
+.studentData {
+  font-family: sans-serif;
+  text-align: center;
+  border: 1px solid gray;
+  background-color: white;
+  padding: 2rem;
+  margin: 0.5rem;
+  max-width: 45%;
+  display: inline-block;
+}
